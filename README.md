@@ -173,7 +173,16 @@ experiments.
 
 ## Citation
 
-If you find this repository useful in your research, please cite the corresponding paper. Citation details will be added when available.
+If you find this repository useful in your research, please cite:
+
+```bibtex
+@article{zhang2026maskdiffad,
+  title={Masked Diffusion Modeling for Anomaly Detection},
+  author={Zhang, Lixing and Liang, Yuchen and Xie, Liyan},
+  journal={arXiv preprint arXiv:2605.30046},
+  year={2026}
+}
+```
 
 ## License
 
